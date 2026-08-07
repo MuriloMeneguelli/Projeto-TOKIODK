@@ -40,16 +40,16 @@ main {
 } 
 
 video {
-    display: flex;
     align-items: center;
     position: static;
     border-radius: 15px;
-    height: 500px;
-    
-    transform: scale(1);
-    
-    
+    height: 500px;    
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
+}
+
+p {
+    display: inline-block;
+
 }
